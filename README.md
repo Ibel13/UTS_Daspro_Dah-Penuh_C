@@ -5,6 +5,6 @@ Deskripsi
 Anggota:
 -Tiara Brianna Damanik (2614010003) 
 -Isabel Putricia Siregar (261401072)
-- (261401)
+-Sabrina (261401054)
 
 Fitur-Fitur Utama Program
