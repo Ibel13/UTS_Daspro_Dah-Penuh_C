@@ -9,7 +9,7 @@ Program Pascal berbasis konsol untuk memesan tiket kereta api. Pengguna dapat me
 ## Anggota Kelompok
 | Nama | NIM | KOM | Lab |
 |------|-----|-----|-----|
-| Tiara Brianna Damanik | 2614010003 | C | 5 |
+| Tiara Brianna Damanik | 261401003 | C | 5 |
 | Isabel Putricia Siregar | 261401072 | C | 6 |
 | Sabrina | 261401054 | C | 5 |
 
